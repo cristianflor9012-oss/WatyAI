@@ -1,0 +1,6 @@
+
+# Modelo Base Pre-entrenado 
+mlx-lm
+
+# Sistema de BUSQUEDA
+ddgs
